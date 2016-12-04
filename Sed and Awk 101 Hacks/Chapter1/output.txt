@@ -1,0 +1,2 @@
+locate command is used to find files
+locate command uses database to find files
