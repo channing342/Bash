@@ -57,7 +57,10 @@ function checkenv()
 function usage()
 {
     echo
-    echo "  Scipt is using redis-cli collect info and list Slowlog"
+    echo "# Nagios scipt using redis-cli collect info and list Slowlog"
+    echo "# Date:		2017/08/16"
+    echo "# Author:		Channing Liu"
+    echo "# Version:	v1.0"
     echo
     echo " -h      : Display this help text."
     echo " -H      : Redis IP."
